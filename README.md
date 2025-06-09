@@ -1,6 +1,6 @@
 # VODiff
 
-[Website](https://vodiff.github.io)
+[Website](https://dliang293.github.io/vodiff-project/)
 
 This is the official implementation of the paper **"VODiff: Controlling Object Visibility Order in Text-to-Image Generation"**.
 
