@@ -14,7 +14,7 @@ Please use the `inference.ipynb` notebook to run inference.
 
 ## Pretrained Models
 
-Download the pretrained model, such as [GLIGEN](https://huggingface.co/gligen/gligen-generation-text-box/blob/main/diffusion_pytorch_model.bin), and place it in the `gligen_checkpoints` directory.
+Download the pretrained model, such as [GLIGEN](https://huggingface.co/gligen/gligen-generation-text-box/blob/main/diffusion_pytorch_model.bin), and place it in the `checkpoints` directory.
 
 ---
 
