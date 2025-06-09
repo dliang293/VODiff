@@ -18,12 +18,6 @@ Download the pretrained model, such as [GLIGEN](https://huggingface.co/gligen/gl
 
 ---
 
-## Teaser
-
-![Teaser figure](figures/teaser.png)
-
----
-
 ## Acknowledgments
 
 This project is built upon the following resources:
