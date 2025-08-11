@@ -1,4 +1,4 @@
-# VODiff: Controlling Object Visibility Order in Text-to-Image Generation
+# VODiff: Controlling Object Visibility Order in Text-to-Image Generation (CVPR 25)
 
 📄 [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_VODiff_Controlling_Object_Visibility_Order_in_Text-to-Image_Generation_CVPR_2025_paper.pdf)  
 🌐 [Project Website](https://dliang293.github.io/vodiff-page/)  
